@@ -1,1 +1,8 @@
-# Group2-Jhun-Gumiran-Group
+# Group2-Group Fitness App
+
+Members: 
+Jhun Gumiran
+Justin Jann Cornesta
+Darren Gundan
+Fritz Gerald Tamayo
+Jhon Steve Lumaban
